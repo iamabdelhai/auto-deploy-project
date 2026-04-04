@@ -14,6 +14,19 @@ git push → GitHub → Webhook POST → Flask Listener → deploy.sh → Node.j
 ```
 
 ---
+## 📸 Screenshots
+
+### Flask Listener Running
+![Flask](screenshots/flask-running.png)
+
+### ngrok Tunnel
+![ngrok](screenshots/ngrok-running.png)
+
+### GitHub Webhook
+![Webhook](screenshots/github-webhook.png)
+
+### Auto Deploy Result
+![Deploy](screenshots/deploy-result.png)
 
 ## Tech Stack
 
